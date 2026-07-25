@@ -63,3 +63,9 @@ Thumbs.db
 # Vercel / Cloudflare
 .vercel/
 .wrangler/
+
+node_modules/
+dist/
+.env
+.jwt_secret.key
+*.log
