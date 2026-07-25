@@ -448,22 +448,5 @@ Steps:
 4. Submit a pull request
 
 
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
-
----
-
-# 👩‍💻 Author
-
-**Sai Deeksha**
-
-AI & Machine Learning Engineering Student
-
----
-
 ⭐ If you find this project useful, consider giving it a star!
->>>>>>> f82a27c9e99feb652e185ade056f75adf4903622
+
