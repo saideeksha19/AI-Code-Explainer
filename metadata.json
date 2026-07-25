@@ -1,0 +1,8 @@
+{
+  "name": "AI Code Explainer",
+  "description": "An advanced code analysis and explanation dashboard powered by Gemini AI, featuring a fully-interactive Monaco editor, custom explanation styles, and code complexity metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
